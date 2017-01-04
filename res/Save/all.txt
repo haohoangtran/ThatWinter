@@ -1,0 +1,10 @@
+tower
+enemy
+36 280 100 1
+house
+100
+sound
+1
+pause
+0
+2
